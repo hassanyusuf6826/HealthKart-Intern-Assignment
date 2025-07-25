@@ -10,7 +10,7 @@ To build a fully interactive dashboard that visualizes and analyzes the Return o
 
 🔗 **Try the Dashboard Online (Deployed on Streamlit Cloud)**
 
-👉 [Launch the Live App](https://healthkart-influencer-dashboard.streamlit.app)
+👉 [https://healthkart-influencer-dashboard.streamlit.app](https://healthkart-intern-assignment-53whkyl8xbznt8xm7gaeuk.streamlit.app/)
 
 ---
 
