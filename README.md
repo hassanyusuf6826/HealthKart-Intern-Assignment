@@ -33,7 +33,7 @@ To build a fully interactive dashboard that visualizes and analyzes the Return o
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/yourusername/healthkart-influencer-dashboard.git
+git clone https://github.com/hassanyusuf6826/HealthKart-Intern-Assignment.git
 cd healthkart-influencer-dashboard
 ```
 
