@@ -97,6 +97,6 @@ streamlit run app.py
 ## 📥 Deliverables
 
 * 📊 Dashboard: Visual & Interactive Streamlit UI
-* 📄 Insights Summary: Word/PDF Report with analysis (available on request)
+* 📄 Insights Summary: PDF Report with analysis 
 * 📑 README: Full project documentation
 * 🗂️ CSV datasets (influencer, posts, tracking, payouts, metrics)
